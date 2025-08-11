@@ -6,6 +6,10 @@
 - change database environment in src/app.module </br>
 - make sure your docker is running </br>
 - open cmd and type docker compose up -d </br>
+
+  until :
+  <img width="1011" height="265" alt="image" src="https://github.com/user-attachments/assets/90c13fba-afee-4532-b942-c40e3b6374e4" />
+
 - import postman json "Task.postman_collection.json" and import it</br>
 - Test method : 
 

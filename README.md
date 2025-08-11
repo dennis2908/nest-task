@@ -49,5 +49,6 @@ PATCH /tasks/:id
         400 Bad Request: If validation fails.
         404 Not Found: If the task with the given ID does not exist.
 
-
 </br>
+
+<img width="1480" height="821" alt="image" src="https://github.com/user-attachments/assets/26a85d3d-36d0-44f0-a9ae-73556d8bc412" />
